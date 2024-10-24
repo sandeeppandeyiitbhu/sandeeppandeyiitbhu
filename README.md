@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeppandeyiitbhu&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeppandeyiitbhu" /> </p>
 
-- 🔭 I’m currently pursuing phd in Electrical Engineering **Transient Stability of power system**
+- 🔭 I’m currently pursuing phd in Electrical Engineering **Working on Transient Stability of power system**
 
 - 📫 How to reach me **sandeeppandeyiitbhu@gmail.com**
 
