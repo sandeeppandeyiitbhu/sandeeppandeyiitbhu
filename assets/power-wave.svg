@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 225" role="img" aria-label="Animated three phase electrical waveform">
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#10375b"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#225477" stroke-width=".6" opacity=".65"/></pattern>
+  <clipPath id="plot"><rect x="25" y="55" width="850" height="135" rx="4"/></clipPath>
+ </defs>
+ <rect width="900" height="225" rx="16" fill="url(#bg)"/>
+ <rect width="900" height="225" rx="16" fill="url(#grid)"/>
+ <text x="30" y="32" fill="#dbeafe" font-size="18" font-family="Arial,sans-serif" font-weight="bold">THREE-PHASE SYSTEM • EMT / FDNE</text>
+ <circle cx="842" cy="26" r="5" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+ <text x="750" y="31" fill="#67e8f9" font-size="11" font-family="monospace">SIMULATING</text>
+ <g clip-path="url(#plot)" fill="none" stroke-width="2.6">
+  <path id="a" stroke="#22d3ee" d="M-875 122 Q-820 25 -765 122 T-655 122 T-545 122 T-435 122 T-325 122 T-215 122 T-105 122 T5 122 T115 122 T225 122 T335 122 T445 122 T555 122 T665 122 T775 122 T885 122 T995 122 T1105 122 T1215 122 T1325 122 T1435 122 T1545 122 T1655 122 T1765 122"><animateTransform attributeName="transform" type="translate" from="0 0" to="220 0" dur="2.8s" repeatCount="indefinite"/></path>
+  <path stroke="#a78bfa" opacity=".85" d="M-875 122 Q-820 219 -765 122 T-655 122 T-545 122 T-435 122 T-325 122 T-215 122 T-105 122 T5 122 T115 122 T225 122 T335 122 T445 122 T555 122 T665 122 T775 122 T885 122 T995 122 T1105 122 T1215 122 T1325 122 T1435 122 T1545 122 T1655 122 T1765 122"><animateTransform attributeName="transform" type="translate" from="73 0" to="293 0" dur="2.8s" repeatCount="indefinite"/></path>
+  <path stroke="#fbbf24" opacity=".85" d="M-875 122 Q-820 25 -765 122 T-655 122 T-545 122 T-435 122 T-325 122 T-215 122 T-105 122 T5 122 T115 122 T225 122 T335 122 T445 122 T555 122 T665 122 T775 122 T885 122 T995 122 T1105 122 T1215 122 T1325 122 T1435 122 T1545 122 T1655 122 T1765 122"><animateTransform attributeName="transform" type="translate" from="146 0" to="366 0" dur="2.8s" repeatCount="indefinite"/></path>
+ </g>
+ <g font-family="monospace" font-size="12"><text x="35" y="210" fill="#22d3ee">● Phase A</text><text x="150" y="210" fill="#a78bfa">● Phase B</text><text x="265" y="210" fill="#fbbf24">● Phase C</text><text x="675" y="210" fill="#94a3b8">f = 60 Hz (illustrative)</text></g>
+</svg>
