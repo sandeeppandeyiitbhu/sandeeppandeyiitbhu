@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B3B75,100:00B4D8&height=210&section=header&text=Sandeep%20Kumar%20Pandey&fontSize=39&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Electrical%20%26%20Computer%20Engineering%20%7C%20Power%20Systems%20%7C%20AI&descAlignY=60&descSize=16" alt="Sandeep Kumar Pandey" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B3B75,100:00B4D8&height=210&section=header&text=Sandeep%20Kumar%20Pandey&fontSize=39&fontColor=FFFFFF" alt="Sandeep Kumar Pandey" />
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&height=60&lines=PhD+Researcher+%40+Georgia+Southern+University;Power+Systems+%2B+Power+Electronics;Frequency-Dependent+Network+Equivalents+%2B+ANN;EMT+Simulation+%7C+State+Estimation+%7C+Protection" alt="Animated research introduction" /></a>
 
